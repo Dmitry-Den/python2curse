@@ -12,11 +12,12 @@ BONUS = 0.03
 LIMIT_BEFORE_TAX = 5_000_000
 TAX_RATE = 0.1
 
+operations_history = []
+
 def menu(balance: Decimal, count: int, is_flag: bool):
-    dct = {'1': 'пополнить счет',
+    dct = {'1': 'пополнить счет', 
     '2': 'снять со счета',
     '3': 'выйти из программы'}
-
     for k, v in dct.items():
         if k.isdigit():
             print(f'{k}: {v}')
@@ -44,14 +45,13 @@ def menu(balance: Decimal, count: int, is_flag: bool):
 def get_money(balance: Decimal):
     money_to_get = Decimal(input('Введите сумму снятия: '))
     procent = money_to_get * PROCENT_COMMISION
-
     if money_to_get % MIN_SUM == 0:
         if procent < MIN_COMISSION:
             procent = MIN_COMISSION
         elif procent > MAX_COMISSION:
             procent = MAX_COMISSION
-
         if money_to_get + procent >= balance:
+            operations_history.append(f'Снятие: {money_to_get} + комиссия {procent}')
             return balance - (money_to_get + procent)
         else:
             print('Недостаточно средств для снятия')
@@ -62,16 +62,15 @@ def get_money(balance: Decimal):
 
 def give_money(balance: Decimal):
     money_to_give = Decimal(input('Введите сумму пополнения: '))
-
     if money_to_give % MIN_SUM == 0:
+        operations_history.append(f'Пополнение: {money_to_give}')
         return balance + money_to_give
     else:
         print('Недостаточно средств для пополнения, сумма не кратна 50')
     return balance
 
-
-    if __name__ == '__main__':
-        print('Добро пожаловать в программу банкомат')
+if __name__ == '__main__':
+    print('Добро пожаловать в программу банкомат')
     balance = 0
     count = 1
     is_flag = True
