@@ -10,7 +10,6 @@
 возвращайтесь в его начало.
 """
 
-
 def read_line_or_begin(fd) -> str:
     text = fd.readline()
     if text == '':
