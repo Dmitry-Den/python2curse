@@ -20,3 +20,5 @@ def get_directory_info(directory):
     save_as_json(result, 'directory_info.json')
     save_as_csv(result, 'directory_info.csv')
     save_as_pickle(result, 'directory_info.pkl')
+
+get_directory_info('K:\gb\python gb\python2kurs\python2curse\DZ8_150524\directory_info')
