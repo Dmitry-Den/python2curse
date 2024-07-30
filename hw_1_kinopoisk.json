@@ -1,0 +1,935 @@
+{
+    "docs": [
+        {
+            "internalNames": [
+                "Любовь и голуби"
+            ],
+            "name": "Любовь и голуби",
+            "alternativeName": "",
+            "enName": "",
+            "year": 1984,
+            "genres": [
+                {
+                    "name": "мелодрама"
+                },
+                {
+                    "name": "комедия"
+                }
+            ],
+            "countries": [
+                {
+                    "name": "СССР"
+                }
+            ],
+            "releaseYears": [],
+            "id": 45146,
+            "externalId": {
+                "kpHD": "4592133f6f3e90e3811d0e202dbcba0c"
+            },
+            "names": [
+                {
+                    "name": "Любовь и голуби",
+                    "language": "RU",
+                    "type": "Russian title on kinopoisk"
+                }
+            ],
+            "type": "movie",
+            "description": "Ликвидируя неисправность лебедки, Василий Кузякин получил травму и путевку на юг. Там он встретил роковую женщину Раису Захаровну и… вернулся Вася с курорта не к себе в деревню, а в дом Раисы Захаровны. Началась для него новая жизнь, в которой было много непонятного и интересного, но не было дома, где остались Надя, дети и голуби.",
+            "shortDescription": "Вася пытается заслужить прощения у семьи. Мощнейший актерский состав под руководством Владимира Меньшова",
+            "logo": null,
+            "poster": {
+                "url": "https://image.openmoviedb.com/kinopoisk-images/1599028/4c36aebf-9fb1-47cf-b1d5-90e916d0314b/orig",
+                "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/1599028/4c36aebf-9fb1-47cf-b1d5-90e916d0314b/x1000"
+            },
+            "backdrop": {
+                "url": "https://image.openmoviedb.com/kinopoisk-ott-images/239697/2a000001616b8dc4fa33ac8cb295d72801b5/orig",
+                "previewUrl": "https://image.openmoviedb.com/kinopoisk-ott-images/239697/2a000001616b8dc4fa33ac8cb295d72801b5/x1000"
+            },
+            "rating": {
+                "kp": 8.29,
+                "imdb": 7.9,
+                "filmCritics": 0,
+                "russianFilmCritics": 0,
+                "await": null
+            },
+            "votes": {
+                "kp": 985526,
+                "imdb": 5628,
+                "filmCritics": 0,
+                "russianFilmCritics": 0,
+                "await": 0
+            },
+            "movieLength": 107,
+            "internalRating": 8.29,
+            "internalVotes": 985526,
+            "isSeries": false,
+            "ticketsOnSale": false,
+            "totalSeriesLength": null,
+            "seriesLength": null,
+            "ratingMpaa": "pg13",
+            "ageRating": 12,
+            "top10": null,
+            "top250": null,
+            "typeNumber": 1,
+            "status": null
+        },
+        {
+            "internalNames": [
+                "Любовь и голуби. Рождение легенды"
+            ],
+            "name": "Любовь и голуби. Рождение легенды",
+            "alternativeName": "",
+            "enName": "",
+            "year": 2015,
+            "genres": [
+                {
+                    "name": "документальный"
+                }
+            ],
+            "countries": [
+                {
+                    "name": "Россия"
+                }
+            ],
+            "releaseYears": [],
+            "id": 4015811,
+            "externalId": {
+                "imdb": null,
+                "kpHD": null
+            },
+            "names": [
+                {
+                    "name": "Любовь и голуби. Рождение легенды"
+                }
+            ],
+            "type": "movie",
+            "description": "",
+            "shortDescription": "",
+            "logo": {
+                "url": null
+            },
+            "poster": {
+                "url": null,
+                "previewUrl": null
+            },
+            "backdrop": {
+                "url": null,
+                "previewUrl": null
+            },
+            "rating": {
+                "kp": 0,
+                "imdb": 0,
+                "filmCritics": 0,
+                "russianFilmCritics": 0,
+                "await": 0
+            },
+            "votes": {
+                "kp": 17,
+                "imdb": 0,
+                "filmCritics": 0,
+                "russianFilmCritics": 0,
+                "await": 0
+            },
+            "movieLength": 0,
+            "internalRating": 0,
+            "internalVotes": 17,
+            "isSeries": false,
+            "ticketsOnSale": false,
+            "totalSeriesLength": null,
+            "seriesLength": null,
+            "ratingMpaa": null,
+            "ageRating": null,
+            "top10": null,
+            "top250": null,
+            "typeNumber": 1,
+            "status": null
+        },
+        {
+            "internalNames": [
+                "Любовь и голуби. Что характерно! Любили друг друга!"
+            ],
+            "name": "Любовь и голуби. Что характерно! Любили друг друга!",
+            "alternativeName": "",
+            "enName": "",
+            "year": 2019,
+            "genres": [
+                {
+                    "name": "короткометражка"
+                },
+                {
+                    "name": "документальный"
+                }
+            ],
+            "countries": [
+                {
+                    "name": "Россия"
+                }
+            ],
+            "releaseYears": [],
+            "id": 5303306,
+            "externalId": {
+                "kpHD": null
+            },
+            "names": [
+                {
+                    "name": "Любовь и голуби. Что характерно! Любили друг друга!",
+                    "language": "RU",
+                    "type": "Russian title on kinopoisk"
+                }
+            ],
+            "type": "movie",
+            "description": "О работе над фильмом «Любовь и голуби».",
+            "shortDescription": "",
+            "logo": null,
+            "poster": {
+                "url": null,
+                "previewUrl": null
+            },
+            "backdrop": {
+                "url": null,
+                "previewUrl": null
+            },
+            "rating": {
+                "kp": 0,
+                "imdb": 0,
+                "filmCritics": 0,
+                "russianFilmCritics": 0,
+                "await": 0
+            },
+            "votes": {
+                "kp": 10,
+                "imdb": 0,
+                "filmCritics": 0,
+                "russianFilmCritics": 0,
+                "await": 0
+            },
+            "movieLength": 38,
+            "internalRating": 0,
+            "internalVotes": 10,
+            "isSeries": false,
+            "ticketsOnSale": false,
+            "totalSeriesLength": null,
+            "seriesLength": null,
+            "ratingMpaa": null,
+            "ageRating": null,
+            "top10": null,
+            "top250": null,
+            "typeNumber": 1,
+            "status": null
+        },
+        {
+            "internalNames": [
+                "В любви и глубокой воде",
+                "Kureiji Kuruzu"
+            ],
+            "name": "В любви и глубокой воде",
+            "alternativeName": "Kureiji Kuruzu",
+            "enName": "",
+            "year": 2023,
+            "genres": [
+                {
+                    "name": "детектив"
+                },
+                {
+                    "name": "мелодрама"
+                },
+                {
+                    "name": "комедия"
+                }
+            ],
+            "countries": [
+                {
+                    "name": "Япония"
+                }
+            ],
+            "releaseYears": [],
+            "id": 5378326,
+            "externalId": {
+                "kpHD": null
+            },
+            "names": [
+                {
+                    "name": "В любви и глубокой воде",
+                    "language": "RU",
+                    "type": "Russian title on kinopoisk"
+                },
+                {
+                    "name": "Kureiji Kuruzu",
+                    "language": null,
+                    "type": "Original title on kinopoisk"
+                }
+            ],
+            "type": "movie",
+            "description": "На борту роскошного лайнера, идущего в Эгейское море, дворецкий и пассажирка пытаются раскрыть загадочное убийство.",
+            "shortDescription": "",
+            "logo": null,
+            "poster": {
+                "url": "https://image.openmoviedb.com/kinopoisk-images/10900341/8672f138-15e6-4651-b1b2-5a7a7df045d3/orig",
+                "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10900341/8672f138-15e6-4651-b1b2-5a7a7df045d3/x1000"
+            },
+            "backdrop": {
+                "url": null,
+                "previewUrl": null
+            },
+            "rating": {
+                "kp": 0,
+                "imdb": 5.1,
+                "filmCritics": 0,
+                "russianFilmCritics": 0,
+                "await": 0
+            },
+            "votes": {
+                "kp": 45,
+                "imdb": 803,
+                "filmCritics": 0,
+                "russianFilmCritics": 0,
+                "await": 0
+            },
+            "movieLength": 125,
+            "internalRating": 5.1,
+            "internalVotes": 45,
+            "isSeries": false,
+            "ticketsOnSale": false,
+            "totalSeriesLength": null,
+            "seriesLength": null,
+            "ratingMpaa": null,
+            "ageRating": null,
+            "top10": null,
+            "top250": null,
+            "typeNumber": 1,
+            "status": null
+        },
+        {
+            "internalNames": [
+                "Глубокая красная любовь",
+                "Sekiseki renren",
+                "Seki Seki Ren Ren",
+                "Deep Red Love",
+                "세키 세키 렌 렌"
+            ],
+            "name": "Глубокая красная любовь",
+            "alternativeName": "Sekiseki renren",
+            "enName": "",
+            "year": 2013,
+            "genres": [
+                {
+                    "name": "драма"
+                },
+                {
+                    "name": "фэнтези"
+                }
+            ],
+            "countries": [
+                {
+                    "name": "Япония"
+                }
+            ],
+            "releaseYears": [],
+            "id": 801995,
+            "externalId": {
+                "tmdb": 288979,
+                "kpHD": null
+            },
+            "names": [
+                {
+                    "name": "Глубокая красная любовь"
+                },
+                {
+                    "name": "Sekiseki renren"
+                },
+                {
+                    "name": "Seki Seki Ren Ren",
+                    "language": "JP",
+                    "type": "Romanized"
+                },
+                {
+                    "name": "Deep Red Love",
+                    "language": "JP",
+                    "type": "Literal translation"
+                },
+                {
+                    "name": "세키 세키 렌 렌",
+                    "language": "KR",
+                    "type": null
+                }
+            ],
+            "type": "movie",
+            "description": "Старшеклассница Дзюри сводит счеты с жизнью, сбросившись с крыши высотки. И проклятая душа девушки теперь в полном одиночестве бродит по улицам города, наблюдая за жизнью других людей. Она разговаривает с теми, кто попадаются ей на пути, но ей никто не отвечает, поскольку для реального мира она - невидимка. Её никто не видит. Никто не слышит. И жизнь продолжается без неё. Зато теперь она видит то, что не доступно живым.",
+            "shortDescription": "",
+            "logo": {
+                "url": null
+            },
+            "poster": {
+                "url": "https://image.openmoviedb.com/kinopoisk-images/1600647/65aa8b4e-30c4-404c-b2b2-2561ecbc3348/orig",
+                "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/1600647/65aa8b4e-30c4-404c-b2b2-2561ecbc3348/x1000"
+            },
+            "backdrop": {
+                "url": null,
+                "previewUrl": null
+            },
+            "rating": {
+                "kp": 0,
+                "imdb": 6.1,
+                "filmCritics": 0,
+                "russianFilmCritics": 0,
+                "await": 0
+            },
+            "votes": {
+                "kp": 106,
+                "imdb": 92,
+                "filmCritics": 0,
+                "russianFilmCritics": 0,
+                "await": 0
+            },
+            "movieLength": 83,
+            "internalRating": 6.1,
+            "internalVotes": 106,
+            "isSeries": false,
+            "ticketsOnSale": false,
+            "totalSeriesLength": null,
+            "seriesLength": null,
+            "ratingMpaa": null,
+            "ageRating": null,
+            "top10": null,
+            "top250": null,
+            "typeNumber": 1,
+            "status": null
+        },
+        {
+            "internalNames": [
+                "Глубокая любовь",
+                "Deep Love"
+            ],
+            "name": "Глубокая любовь",
+            "alternativeName": "Deep Love",
+            "enName": "",
+            "year": 2013,
+            "genres": [
+                {
+                    "name": "документальный"
+                }
+            ],
+            "countries": [
+                {
+                    "name": "Польша"
+                }
+            ],
+            "releaseYears": [],
+            "id": 840395,
+            "externalId": {
+                "kpHD": null,
+                "imdb": "tt3594920",
+                "tmdb": 324501
+            },
+            "names": [
+                {
+                    "name": "Глубокая любовь"
+                },
+                {
+                    "name": "Deep Love"
+                }
+            ],
+            "type": "movie",
+            "description": "Януш – уверенный в себе, очень активный 60-летний дайвер остался парализованным после инсульта. Благодаря реабилитации и помощи Аси он начинает понемногу двигаться, хотя проблемы с речью остаются. Януша поддерживает лишь стремление осуществить свою мечту: ему хочется снова нырять. Его цель – добраться до прекрасной, но опасной Голубой Дыры, подводной пещеры неподалёку от Дахаба в Египте, в которую непросто опуститься даже здоровым дайверам.",
+            "shortDescription": "",
+            "logo": {
+                "url": null,
+                "previewUrl": null
+            },
+            "poster": {
+                "url": "https://image.openmoviedb.com/kinopoisk-images/1946459/2a709968-483c-482d-91aa-20241c4fba68/orig",
+                "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/1946459/2a709968-483c-482d-91aa-20241c4fba68/x1000"
+            },
+            "backdrop": {
+                "url": null,
+                "previewUrl": null
+            },
+            "rating": {
+                "kp": 0,
+                "imdb": 7.9,
+                "filmCritics": 0,
+                "russianFilmCritics": 0,
+                "await": 0
+            },
+            "votes": {
+                "kp": 45,
+                "imdb": 56,
+                "filmCritics": 0,
+                "russianFilmCritics": 0,
+                "await": 0
+            },
+            "movieLength": 86,
+            "internalRating": 7.9,
+            "internalVotes": 45,
+            "isSeries": false,
+            "ticketsOnSale": false,
+            "totalSeriesLength": null,
+            "seriesLength": null,
+            "ratingMpaa": null,
+            "ageRating": null,
+            "top10": null,
+            "top250": null,
+            "typeNumber": 1,
+            "status": null
+        },
+        {
+            "internalNames": [
+                "Любовь глубока",
+                "Koi wa deep ni"
+            ],
+            "name": "Любовь глубока",
+            "alternativeName": "Koi wa deep ni",
+            "enName": "",
+            "year": 2021,
+            "genres": [
+                {
+                    "name": "мелодрама"
+                },
+                {
+                    "name": "комедия"
+                }
+            ],
+            "countries": [
+                {
+                    "name": "Япония"
+                }
+            ],
+            "releaseYears": [
+                {
+                    "start": 2021,
+                    "end": 2021
+                }
+            ],
+            "id": 4478779,
+            "externalId": {
+                "kpHD": null
+            },
+            "names": [
+                {
+                    "name": "Любовь глубока"
+                },
+                {
+                    "name": "Koi wa deep ni"
+                }
+            ],
+            "type": "tv-series",
+            "description": "",
+            "shortDescription": "",
+            "logo": {
+                "url": null
+            },
+            "poster": {
+                "url": "https://image.openmoviedb.com/kinopoisk-images/4486362/5675f213-e28b-45a0-a865-e299035952e3/orig",
+                "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/4486362/5675f213-e28b-45a0-a865-e299035952e3/x1000"
+            },
+            "backdrop": {
+                "url": null,
+                "previewUrl": null
+            },
+            "rating": {
+                "kp": 0,
+                "imdb": 6.6,
+                "filmCritics": 0,
+                "russianFilmCritics": 0,
+                "await": 0
+            },
+            "votes": {
+                "kp": 29,
+                "imdb": 63,
+                "filmCritics": 0,
+                "russianFilmCritics": 0,
+                "await": 0
+            },
+            "movieLength": 0,
+            "internalRating": 6.6,
+            "internalVotes": 29,
+            "isSeries": true,
+            "ticketsOnSale": false,
+            "totalSeriesLength": null,
+            "seriesLength": 50,
+            "ratingMpaa": null,
+            "ageRating": null,
+            "top10": null,
+            "top250": null,
+            "typeNumber": 2,
+            "status": "completed"
+        },
+        {
+            "internalNames": [
+                "Голубая любовь",
+                "Blue Love"
+            ],
+            "name": "Голубая любовь",
+            "alternativeName": "Blue Love",
+            "enName": "",
+            "year": 2001,
+            "genres": [
+                {
+                    "name": "короткометражка"
+                },
+                {
+                    "name": "драма"
+                },
+                {
+                    "name": "комедия"
+                }
+            ],
+            "countries": [
+                {
+                    "name": "США"
+                }
+            ],
+            "releaseYears": [],
+            "id": 85818,
+            "externalId": {
+                "kpHD": null
+            },
+            "names": [
+                {
+                    "name": "Голубая любовь"
+                },
+                {
+                    "name": "Blue Love"
+                }
+            ],
+            "type": "movie",
+            "description": "",
+            "shortDescription": "",
+            "logo": {
+                "url": null
+            },
+            "poster": {
+                "url": null,
+                "previewUrl": null
+            },
+            "backdrop": {
+                "url": null,
+                "previewUrl": null
+            },
+            "rating": {
+                "kp": 0,
+                "imdb": 0,
+                "filmCritics": 0,
+                "russianFilmCritics": 0,
+                "await": 0
+            },
+            "votes": {
+                "kp": 5,
+                "imdb": 0,
+                "filmCritics": 0,
+                "russianFilmCritics": 0,
+                "await": 0
+            },
+            "movieLength": 16,
+            "internalRating": 0,
+            "internalVotes": 5,
+            "isSeries": false,
+            "ticketsOnSale": false,
+            "totalSeriesLength": null,
+            "seriesLength": null,
+            "ratingMpaa": null,
+            "ageRating": null,
+            "top10": null,
+            "top250": null,
+            "typeNumber": 1,
+            "status": null
+        },
+        {
+            "internalNames": [
+                "Любовь и другие лекарства",
+                "Love & Other Drugs",
+                "Love, et autres drogues",
+                "Love & autres drogues",
+                "O Amor é o Melhor Remédio",
+                "De Amor y Otras Adicciones",
+                "L'Amour et les autres drogues",
+                "Amor & Outras Drogas",
+                "Amor y Otras Drogas",
+                "러브 앤 드럭스",
+                "Amore & Altri Rimedi",
+                "Sevgi və Digər Narkotiklər"
+            ],
+            "name": "Любовь и другие лекарства",
+            "alternativeName": "Love & Other Drugs",
+            "enName": "",
+            "year": 2010,
+            "genres": [
+                {
+                    "name": "драма"
+                },
+                {
+                    "name": "мелодрама"
+                },
+                {
+                    "name": "комедия"
+                }
+            ],
+            "countries": [
+                {
+                    "name": "США"
+                }
+            ],
+            "releaseYears": [],
+            "id": 463695,
+            "externalId": {
+                "imdb": "tt0758752",
+                "tmdb": 43347,
+                "kpHD": "4957fc53fa7b4e2fa4148b5a5ca29c85"
+            },
+            "names": [
+                {
+                    "name": "Любовь и другие лекарства"
+                },
+                {
+                    "name": "Love & Other Drugs"
+                },
+                {
+                    "name": "Love, et autres drogues",
+                    "language": "FR",
+                    "type": null
+                },
+                {
+                    "name": "Love & autres drogues",
+                    "language": "FR",
+                    "type": null
+                },
+                {
+                    "name": "O Amor é o Melhor Remédio",
+                    "language": "PT",
+                    "type": null
+                },
+                {
+                    "name": "De Amor y Otras Adicciones",
+                    "language": "SV",
+                    "type": null
+                },
+                {
+                    "name": "L'Amour et les autres drogues",
+                    "language": "CA",
+                    "type": null
+                },
+                {
+                    "name": "Amor & Outras Drogas",
+                    "language": "BR",
+                    "type": null
+                },
+                {
+                    "name": "Amor y Otras Drogas",
+                    "language": "ES",
+                    "type": null
+                },
+                {
+                    "name": "러브 앤 드럭스",
+                    "language": "KR",
+                    "type": null
+                },
+                {
+                    "name": "Amore & Altri Rimedi",
+                    "language": "IT",
+                    "type": null
+                },
+                {
+                    "name": "Sevgi və Digər Narkotiklər",
+                    "language": "AZ",
+                    "type": null
+                }
+            ],
+            "type": "movie",
+            "description": "Девушка широких взглядов Мэгги встречает мужчину своей мечты в лице обаятельного продавца виагры, Джейми. Они начинают легкую интрижку, но оказывается, что надвигающаяся трагедия переворачивает их жизни. Но между Мэгги и Джейми существует особая «химия», они находятся  под влиянием абсолютного наркотика... по имени любовь.",
+            "shortDescription": "Сердцеед влюбляется в неизлечимо больную девушку. Пронзительный ромком с Джейком Джилленхолом и Энн Хэтэуэй",
+            "logo": {
+                "url": "https://avatars.mds.yandex.net/get-ott/2439731/2a00000175bc10d61c17a5e3ea379a5ada40/orig"
+            },
+            "poster": {
+                "url": "https://image.openmoviedb.com/kinopoisk-images/1704946/ad874c23-a328-4668-8f44-a28ffafbe299/orig",
+                "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/1704946/ad874c23-a328-4668-8f44-a28ffafbe299/x1000"
+            },
+            "backdrop": {
+                "url": "https://image.openmoviedb.com/kinopoisk-ott-images/239697/2a000001616b8fc208eb2229348added4b95/orig",
+                "previewUrl": "https://image.openmoviedb.com/kinopoisk-ott-images/239697/2a000001616b8fc208eb2229348added4b95/x1000"
+            },
+            "rating": {
+                "kp": 6.865,
+                "imdb": 6.7,
+                "filmCritics": 5.8,
+                "russianFilmCritics": 71.4286,
+                "await": null
+            },
+            "votes": {
+                "kp": 143885,
+                "imdb": 226432,
+                "filmCritics": 170,
+                "russianFilmCritics": 7,
+                "await": 0
+            },
+            "movieLength": 113,
+            "internalRating": 6.865,
+            "internalVotes": 143885,
+            "isSeries": false,
+            "ticketsOnSale": false,
+            "totalSeriesLength": null,
+            "seriesLength": null,
+            "ratingMpaa": "r",
+            "ageRating": 18,
+            "top10": null,
+            "top250": null,
+            "typeNumber": 1,
+            "status": null
+        },
+        {
+            "internalNames": [
+                "Любовь и монстры",
+                "Love and Monsters",
+                "Monster Problems",
+                "Кохання і монстри",
+                "Проблемы с монстром",
+                "Aşk ve Canavarlar",
+                "Love and Monsters AKA Monster Problems",
+                "Monster Problems AKA Love and Monsters",
+                "怪獸有問題",
+                "愛與怪物",
+                "愛與怪物",
+                "De amor y monstruos"
+            ],
+            "name": "Любовь и монстры",
+            "alternativeName": "Love and Monsters",
+            "enName": "",
+            "year": 2020,
+            "genres": [
+                {
+                    "name": "комедия"
+                },
+                {
+                    "name": "фантастика"
+                },
+                {
+                    "name": "боевик"
+                },
+                {
+                    "name": "приключения"
+                }
+            ],
+            "countries": [
+                {
+                    "name": "Канада"
+                },
+                {
+                    "name": "США"
+                },
+                {
+                    "name": "Австралия"
+                }
+            ],
+            "releaseYears": [],
+            "id": 689489,
+            "externalId": {
+                "imdb": "tt2222042",
+                "tmdb": 590223,
+                "kpHD": null
+            },
+            "names": [
+                {
+                    "name": "Любовь и монстры"
+                },
+                {
+                    "name": "Love and Monsters"
+                },
+                {
+                    "name": "Monster Problems",
+                    "language": "US",
+                    "type": "original title"
+                },
+                {
+                    "name": "Кохання і монстри",
+                    "language": "UA",
+                    "type": null
+                },
+                {
+                    "name": "Проблемы с монстром",
+                    "language": "RU",
+                    "type": null
+                },
+                {
+                    "name": "Aşk ve Canavarlar",
+                    "language": "TR",
+                    "type": null
+                },
+                {
+                    "name": "Love and Monsters AKA Monster Problems",
+                    "language": "US",
+                    "type": null
+                },
+                {
+                    "name": "Monster Problems AKA Love and Monsters",
+                    "language": "US",
+                    "type": null
+                },
+                {
+                    "name": "怪獸有問題",
+                    "language": "HK",
+                    "type": null
+                },
+                {
+                    "name": "愛與怪物",
+                    "language": "HK",
+                    "type": null
+                },
+                {
+                    "name": "愛與怪物",
+                    "language": "TW",
+                    "type": null
+                },
+                {
+                    "name": "De amor y monstruos",
+                    "language": "ES",
+                    "type": null
+                }
+            ],
+            "type": "movie",
+            "description": "Семь лет назад человечество взорвало подлетавший к Земле астероид, но после этого столкнулось с последствиями — некоторые земные обитатели мутировали в гигантских монстров. Через год население Земли сократилось на 95%. У Джоэла погибли родители, и с тех пор он в компании таких же выживших обитает в подземном бункере. Недавно он поймал радиосигнал другой колонии, где живет его подростковая любовь Эйми, и теперь решил до неё добраться. И это будет непросто, ведь у Джоэла нет никаких навыков выживания, и более того — при виде монстров он впадает в оцепенение.",
+            "shortDescription": "",
+            "logo": {
+                "url": "https://imagetmdb.com/t/p/original/gWqJ0racNJKE7Xb9MrIgDthtYxc.png"
+            },
+            "poster": {
+                "url": "https://image.openmoviedb.com/kinopoisk-images/1599028/09856b4c-cecb-431e-a798-60022d8ede07/orig",
+                "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/1599028/09856b4c-cecb-431e-a798-60022d8ede07/x1000"
+            },
+            "backdrop": {
+                "url": null,
+                "previewUrl": null
+            },
+            "rating": {
+                "kp": 6.738,
+                "imdb": 6.9,
+                "filmCritics": 7.3,
+                "russianFilmCritics": 0,
+                "await": null
+            },
+            "votes": {
+                "kp": 73318,
+                "imdb": 146858,
+                "filmCritics": 117,
+                "russianFilmCritics": 2,
+                "await": 0
+            },
+            "movieLength": 109,
+            "internalRating": 6.738,
+            "internalVotes": 73318,
+            "isSeries": false,
+            "ticketsOnSale": false,
+            "totalSeriesLength": null,
+            "seriesLength": null,
+            "ratingMpaa": "pg13",
+            "ageRating": 12,
+            "top10": null,
+            "top250": null,
+            "typeNumber": 1,
+            "status": null
+        }
+    ],
+    "total": 1000,
+    "limit": 10,
+    "page": 1,
+    "pages": 100
+}
